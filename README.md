@@ -1,2 +1,2 @@
--VersionOne.Data.Generator.Clarity
-==================================
+VersionOne.Data.Generator.Clarity
+=================================
